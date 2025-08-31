@@ -1,3 +1,5 @@
 # jj-tutorial
 
-This is a toy repository for learning Jujutsu.
+The file hello.py contains a script that greets the world.
+It can be executed with the command 'python hello.py'.
+Programming is fun!"
